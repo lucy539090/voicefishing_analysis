@@ -8,9 +8,12 @@
 --- 
 ## 캡스톤 연계 실습을 통해 발전시킨 내용 
 - youtube_data
-  - 
+  - crawling
+  - doc 파일 워드클라우드
+  - 키워드 추출 워드클라우드
+  - 감성분석
+  - 키워드 예측 모델
 
-  
 - script_data
   - pre_processing
     - docx 파일로, 파일 형식 변환
