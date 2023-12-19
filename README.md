@@ -34,6 +34,8 @@
     - 모든 전처리를 완료한 csv 최종 파일 
 - wordcloud_result
   - 상위 100개 명사를 통해 워드 클라우드 시각화 진행한 결과
+- docx wordcloud
+  - docx 개별 파일들을 워드 클라우드 시각화 진행
 
 ---
 ### youtube Data 
