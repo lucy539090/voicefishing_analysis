@@ -15,7 +15,7 @@
   - 키워드 예측 모델
 
 - script_data
-  - pre_processing
+  - Pre_processing
     - docx 파일로, 파일 형식 변환
     - 하나의 데이터 프레임으로 병합
     - 불용어 제거
